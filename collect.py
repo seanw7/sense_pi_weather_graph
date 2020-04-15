@@ -1,4 +1,4 @@
-from sense_hat import SenseHat
+from sense_hat import *
 from time import sleep
 
 sense = SenseHat()
