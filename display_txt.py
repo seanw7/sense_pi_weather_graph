@@ -2,4 +2,10 @@ from sense_hat import SenseHat
 
 sense = SenseHat()
 
-sense.show_message("Hello world!")
+r = 255
+g = 255
+b = 255
+
+sense.clear((r, g, b))
+
+sense.show_message("What up Joel!")
