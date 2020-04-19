@@ -8,4 +8,4 @@ b = 255
 
 sense.clear((r, g, b))
 
-sense.show_message("What up Joel!")
+sense.show_message("What up Joel!", (r,g,b))
